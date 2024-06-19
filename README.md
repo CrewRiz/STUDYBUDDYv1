@@ -1,6 +1,6 @@
 # Study Buddy
 
-Study Buddy is an interactive learning assistant application that helps students with note-taking and provides personalized tutoring. It leverages OpenAI's powerful language models to offer an engaging and adaptive learning experience.
+Study Buddy is an interactive learning assistant application that helps students with note-taking and provides personalized tutoring. It leverages OpenAI's language models to offer an adaptive learning experience.
 
 ## Features
 
@@ -22,12 +22,13 @@ Before you begin, ensure you have met the following requirements:
 ## Installation
 
 1. Clone the repository:
+   
 git clone https://github.com/CrewRiz/STUDYBUDDYv1.git
 cd STUDYBUDDYv1
-Copy
+
 2. Install the required dependencies:
 pip install openai
-Copy
+
 3. Set up your OpenAI API key as an environment variable. In PyCharm:
 - Go to Run -> Edit Configurations
 - Click the "+" button and select "Python"
@@ -43,7 +44,7 @@ Copy
 
 1. Run the `main.py` file in PyCharm or from the command line:
 python main.py
-Copy
+
 2. In the start menu, choose either "Take Notes" or "Start Tutoring".
 
 3. For note-taking:
